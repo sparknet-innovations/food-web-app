@@ -1,4 +1,4 @@
-# Flask Static Website Project
+# Food Web App
 
 This is a simple Flask-based static website project showcasing a food menu. The project serves as a basic example of using Flask to create and render web pages.
 
