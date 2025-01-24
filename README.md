@@ -3,14 +3,7 @@
 This is a simple Flask-based static website project showcasing a food menu. The project serves as a basic example of using Flask to create and render web pages.
 
 ## Problem Statement
-People often struggle to manage their tasks efficiently, leading to missed deadlines and disorganization. Many existing tools are either too complicated or lack essential features like reminders or notifications.
-
-## Objective
-This web app helps users:
-
-- Add, edit, delete, and reorder tasks easily.
-- Set reminders for important tasks.
-- Get instant notifications for task updates.
+Small restaurants and cafes need a simple way to showcase their menu online without requiring complex or expensive tools. Many businesses lack the resources for dynamic websites and only need a basic platform to display their offerings.
 
 ## Features
 - **Home Page**: A welcoming landing page for the website.
