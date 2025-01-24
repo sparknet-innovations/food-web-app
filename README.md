@@ -9,10 +9,6 @@ Small restaurants and cafes need a simple way to showcase their menu online with
 - **Home Page**: A welcoming landing page for the website.
 - **Menu Page**: Displays a list of food items with their details (name, description, price, and image).
 
-## Project Structure
-project-folder/ │ ├── templates/ │ ├── home.html # Homepage template │ ├── menu.html # Menu page template │ ├── static/ │ ├── css/ │ │ └── styles.css # Styles for the website │ ├── images/ │ └── (menu item images) │ ├── app.py # Main application file ├── requirements.txt # Python dependencies ├── README.md # Project documentation
-
-
 ## Installation and Setup
 
 ### Prerequisites
